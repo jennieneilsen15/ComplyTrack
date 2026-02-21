@@ -130,3 +130,33 @@ By validating controls before full deployment:
 - System reliability improves
 
 Resolving P0 issues before release protects the business from regulatory and operational risk.
+
+## 5. Strategic Reflection
+
+An automated QA pipeline improves Business Continuity by reducing the risk of system failure before release.
+
+When testing is automated:
+
+- Defects are detected earlier
+- Critical controls are validated consistently
+- Human error is reduced
+- System reliability improves
+
+In a compliance-focused system, failures in RBAC or audit logging could create regulatory risk. Automated testing ensures these controls are validated every time code changes are made.
+
+### Manual vs. Automated Testing Trade-Off
+
+Manual testing allows flexibility and human judgment. It is useful for reviewing edge cases and unusual scenarios.
+
+However, manual testing:
+- Is slower
+- Is less consistent
+- Does not scale well
+
+Automated testing:
+- Runs faster
+- Repeats tests consistently
+- Reduces long-term cost
+- Supports continuous integration
+
+Automation requires upfront setup time, but it strengthens system stability and protects business operations over time.
